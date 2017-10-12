@@ -1,4 +1,7 @@
-vendor/
-composer.lock
-.DS_Store
-.idea/
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
