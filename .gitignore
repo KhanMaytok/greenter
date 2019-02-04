@@ -1,6 +1,7 @@
-/build/
-/vendor/
-composer.lock
-/.idea/
-/site/
-.php_cs.cache
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
