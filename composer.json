@@ -16,7 +16,7 @@
         "ext-dom": "*",
         "greenter/xmldsig": "^5.0",
         "greenter/core": "^2.1",
-        "greenter/ws": "dev-master",
+        "greenter/ws": "dev-master#b45798f0404faea7d2fe63dd67f3505df356d762",
         "greenter/xml": "^2.1"
     },
 	"require-dev": {
