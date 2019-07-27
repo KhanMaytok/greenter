@@ -11,12 +11,19 @@
     ],
     "homepage": "https://github.com/giansalex/greenter",
     "type": "library",
+	"repositories":
+    [
+        {
+            "type": "vcs",
+            "url": "https://github.com/KhanMaytok/greenter-ws"
+        }
+    ],
     "require": {
 		"php": ">=5.5.9",
         "ext-dom": "*",
         "greenter/xmldsig": "^5.0",
         "greenter/core": "^2.1",
-        "greenter/ws": "dev-master#b45798f0404faea7d2fe63dd67f3505df356d762",
+        "greenter/ws": "dev-master#afdad77142862c093ddfcb7f2dd38a38cd21c0a8"
         "greenter/xml": "^2.1"
     },
 	"require-dev": {
